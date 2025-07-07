@@ -1,6 +1,4 @@
-Here's a professional and detailed `README.md` file for a **Movie Ticket Booking Website** GitHub repository. You can customize project name, tech stack, and feature list as needed:
 
----
 
 # 🎬 Movie Ticket Booking Website
 
@@ -118,9 +116,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-For any queries or suggestions, feel free to reach out!
+Made with ❤️ by [Your Name](https://github.com/itsprajapati1204)
 
----
-
-Would you like me to generate this with actual badges, Markdown formatting, or add deployment instructions (like with Vercel/Heroku)?
