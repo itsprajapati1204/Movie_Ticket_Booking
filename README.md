@@ -116,5 +116,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Contact
 
-Made with ❤️ by [Your Name](https://github.com/itsprajapati1204)
+Made with ❤️ by Shubham Singh Prajapati(https://github.com/itsprajapati1204)
 
